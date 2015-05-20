@@ -1,0 +1,3 @@
+[20-Dec-2014 09:04:42 Etc/GMT] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/zillioni/public_html/soulmate/application/controllers/home.php on line 86
+[20-Dec-2014 09:06:11 Etc/GMT] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/zillioni/public_html/soulmate/application/controllers/home.php on line 86
+[20-Dec-2014 09:38:53 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/zillioni/public_html/soulmate/application/controllers/home.php on line 1

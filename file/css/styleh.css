@@ -1,0 +1,17 @@
+/* =The style for the lab
+-------------------------------------------------------------- */
+hr {
+    height:1px;
+    border:none;
+    background-color:rgb(220,220,220)
+}
+
+.answer {
+    display:none;
+}
+
+
+#wrapper #main .containerr #faq-list h2 .close1
+{
+	float:left;
+}
